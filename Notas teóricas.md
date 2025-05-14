@@ -18,3 +18,7 @@ lazy loading => Carga sola y estrictamente justo los componentes que necesitamos
 
 # Nota 2: Angular 19 tiene su propio sevidor de node express
 Actualmente en esta ultima versión en la v19 de angular tenemos un archivo "server.ts", el cual se utiliza para el SSR (Server Side Rendering) es posible crear una basa de datos pequeña para pruebas de loguin y con poca información, para hacer pruebas a nivel full stack con modelos de datos y endpoints, de hecho en este proyeto voy a realizarlo.
+
+# Nota 3: Variables Privadas JS y TrypeScript
+En Typescript se utiliza "private" y ahora en javascript se utiliza "#"
+

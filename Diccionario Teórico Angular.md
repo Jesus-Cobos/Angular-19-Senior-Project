@@ -8,3 +8,5 @@ Consiste en que el servidor genere el HTML completo de la página a mostrar, y l
 (Nota 3: Antes se utilizaba Angular Universal, pero ahora se utiliza un SSR con un servidor de Nodejs express integrado)
 
 Beneficios: Mejor rendimiento y carga de la aplicación / Mejor SEO / Mejora la experiencia del usuario
+
+# Typescript: Concepto Shape
